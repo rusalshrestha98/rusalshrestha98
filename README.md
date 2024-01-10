@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I'm passionate about all things related to web-dev
 
 ## 🚀 About Me
 
-I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 
+I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer
 
 ## 🔧 Technologies & Tools
+
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -27,11 +28,11 @@ I'm currently focused on improving my skills in data structures and algorithms, 
 
 ## 👯‍♂️ I’m looking to collaborate on
 
-I'm open to collaborating on projects related to open source projects on GitHub that use any of the technologies above with the mission to help people or a specific cause!
+I'm open to collaborating on open source projects that use any of the technologies above!
 
 ## 📫 How to reach me
 
-Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or any of the social media links above!
+Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or any of the social media links above.
 
 ## ⚡ Fun fact
 
@@ -39,8 +40,8 @@ I really love videography, national parks, and listening to music in my free tim
 
 Happy coding! 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusalshrestha98&show_icons=true&locale=en&layout=compact" alt="rusalshrestha98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusalshrestha98&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rusalshrestha98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusalshrestha98&show_icons=true&locale=en" alt="rusalshrestha98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusalshrestha98&show_icons=true&locale=en&theme=tokyonight" alt="rusalshrestha98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusalshrestha98&" alt="rusalshrestha98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusalshrestha98&theme=tokyonight" alt="rusalshrestha98" /></p>
