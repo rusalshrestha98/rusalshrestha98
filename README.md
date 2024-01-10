@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm passionate about all things related to web-dev
 
 ## 🚀 About Me
 
-I'm a full-stack developer with 4.5 years of profesional experience in a variety of different tech stacks and industries.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rusalshrestha/)
+I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 2.
 
 ## 🔧 Technologies & Tools
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
@@ -20,6 +18,7 @@ I'm a full-stack developer with 4.5 years of profesional experience in a variety
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br>
 <br>
 
 ## 🌱 I’m currently learning
