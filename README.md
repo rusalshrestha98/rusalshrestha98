@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about all things related to web-dev
 
 ## 🚀 About Me
 
-I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer
+I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 2.
 
 ## 🔧 Technologies & Tools
 
@@ -32,11 +32,11 @@ I'm open to collaborating on open source projects that use any of the technologi
 
 ## 📫 How to reach me
 
-Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or any of the social media links above.
+Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/rusalshrestha/).
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
-I really love videography, national parks, and listening to music in my free time.
+I really love videography, anime, music festivals, national parks, and listening to music in my free time. My favorite artists include Tame Impala, Frank Ocean, and Fred Again! Additionally, some of my favorite animes include Naruto, Jujutsu Kaisen, and Demon Slayer :)
 
 Happy coding! 🚀
 
