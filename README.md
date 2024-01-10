@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about all things related to web-dev
 
 ## 🚀 About Me
 
-I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 2.
+I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 
 
 ## 🔧 Technologies & Tools
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
@@ -38,3 +38,9 @@ Feel free to reach out to me through my [email](mailto:rusalo101@gmail.com) or a
 I really love videography, national parks, and listening to music in my free time.
 
 Happy coding! 🚀
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusalshrestha98&show_icons=true&locale=en&layout=compact" alt="rusalshrestha98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusalshrestha98&show_icons=true&locale=en" alt="rusalshrestha98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusalshrestha98&" alt="rusalshrestha98" /></p>
