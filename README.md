@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about all things related to web-dev
 
 ## 🚀 About Me
 
-I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Asurion as a Software Engineer 2.
+I'm a full-stack developer with 5 years of profesional experience in a variety of different tech stacks and industries. I am currently working at a company called Rate Insurance as a Software Engineer.
 
 ## 🔧 Technologies & Tools
 
